@@ -1,0 +1,72 @@
+header{
+  width: 100%;
+  height: 100px;
+  background-color: #808000;
+}
+footer{
+  width: 100%;
+  height: 100px;
+  background-color:#8FBC8F;
+}
+
+table{
+  width:100%
+}
+tr,td{
+  border: 1px solid;
+}
+#green{
+  background-color: green;
+}
+
+#Lime{
+  background-color: Lime;
+}
+
+#tomato{
+  background-color: tomato;
+}
+
+#Peru{
+  background-color: Peru;
+}
+
+#plum{
+  background-color: plum;
+}
+
+#Cyan{
+  background-color: Cyan;
+}
+
+#gold{
+  background-color: gold;
+}
+
+#hotpink{
+  background-color: hotpink;
+}
+#steelblue{
+  background-color: steelblue;
+}
+#skyblue{
+  background-color: skyblue;
+}
+#khaki{
+  background-color: khaki;
+}
+#salmon{
+  background-color: salmon;
+}
+#orchid{
+  background-color: orchid;
+}
+#royalblue{
+  background-color: royalblue;
+}
+#darkgreen{
+  background-color: darkgreen;
+}
+#yellowgreen{
+  background-color: yellowgreen;
+}
